@@ -111,4 +111,6 @@
 
 <script src="js/bootstrap.bundle.min.js"></script>
 
+<script> let versionRiC = ["Header & Footer Blue MB", "Version 1", "20-03-2024", "Dev. Ricardo Colín R."];; </script>
+
 </html>
